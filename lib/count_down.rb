@@ -6,3 +6,4 @@ while counter >= 1 do
 
 end 
 puts "Happy New Year!"
+end
