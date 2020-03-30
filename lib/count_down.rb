@@ -1,4 +1,4 @@
-def countdown
+
 counter = 10
 while counter >= 1 do 
   puts counter
@@ -6,4 +6,3 @@ while counter >= 1 do
 
 end 
 puts "Happy New Year!"
-end
