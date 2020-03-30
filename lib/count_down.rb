@@ -1,4 +1,5 @@
-while count >= 1 do 
+counter = 1
+while counter >= 1 do 
   puts count
   count -=1
 
